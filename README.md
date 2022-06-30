@@ -15,37 +15,38 @@ Technologies involved in this project are:
 
 ## Usage
 
-In order to test or use the project you should the following steps:
+In order to test or use the project you should follow these steps:
 
 * Fork the repository
 
 ![fork ](./images/fork.png)
 
+
 * Clone the forked repository
 
 ![clone ](./images/clone.png)
 
+
 * Open the repository folder
 
-    
 
-    cd free-hosting-via-pr
+        cd free-hosting-via-pr
   
 * Make a new branch (with or without a checkout but example will use checkout)
 
 
-    git checkout -b <new branch name>
+        git checkout -b <new branch name>
 
 * Customize your branch
 
 
-      ...
+        ...
   
 * Send a pull request
 
 ![pull request](./images/pull_request.png)
 
-    The outcome will be your free hosting
+        The outcome will be your free hosting
 
   
 *  Netlify will post a deploy link as a comment in your PR thread.
@@ -53,8 +54,13 @@ In order to test or use the project you should the following steps:
 
 
 ## Deploy Status
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f7ed0fa8-4cf0-429b-bea5-95d9c83b8391/deploy-status)](https://app.netlify.com/sites/free-hosting-via-pr/deploys)
+
+## Author
+
+ * **Kendall-Does-Coding-Websites** 
 
 ## Aknowledgements
 
-...
+* [Netlify](https://netlify.com) for using their web service. 
