@@ -63,4 +63,4 @@ In order to test or use the project you should follow these steps:
 
 ## Aknowledgements
 
-* [Netlify](https://netlify.com) for using their web service. 
+* [Netlify](https://www.netlify.com) for using their web service. 
