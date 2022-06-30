@@ -27,17 +27,24 @@ In order to test or use the project you should the following steps:
 
 * Open the repository folder
 
-    - cd free-hosting-via-pr
+    
+
+    cd free-hosting-via-pr
   
 * Make a new branch (with or without a checkout but example will use checkout)
 
-    - git checkout -b <new branch name>
+
+    git checkout -b <new branch name>
 
 * Customize your branch
 
-    - ...
+
+      ...
   
 * Send a pull request
+
+![pull request](./images/pull_request.png)
+
     The outcome will be your free hosting
 
   
@@ -47,3 +54,7 @@ In order to test or use the project you should the following steps:
 
 ## Deploy Status
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f7ed0fa8-4cf0-429b-bea5-95d9c83b8391/deploy-status)](https://app.netlify.com/sites/free-hosting-via-pr/deploys)
+
+## Aknowledgements
+
+...
