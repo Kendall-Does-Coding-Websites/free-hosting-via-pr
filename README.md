@@ -59,7 +59,7 @@ In order to test or use the project you should follow these steps:
 
 ## Author
 
- * **Kendall-Does-Coding-Websites** : [Kendall-Does-Coding-Websites](https://github.com/Kendall-Does-Coding-Websites)
+* **Kendall-Does-Coding-Websites** : [Kendall-Does-Coding-Websites](https://github.com/Kendall-Does-Coding-Websites)
 
 ## Aknowledgements
 
