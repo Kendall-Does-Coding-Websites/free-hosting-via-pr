@@ -55,6 +55,6 @@ In order to test or use the project you should the following steps:
 ## Deploy Status
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f7ed0fa8-4cf0-429b-bea5-95d9c83b8391/deploy-status)](https://app.netlify.com/sites/free-hosting-via-pr/deploys)
 
-## Aknowledgements
+## Acnowledgements
 
 ...
